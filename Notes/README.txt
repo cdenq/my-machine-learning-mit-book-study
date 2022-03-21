@@ -1,0 +1,1 @@
+All notes have been migrated to a series of [Google Docs](https://drive.google.com/drive/folders/10zMP4WC_JrgfCo4MIA0Rbd_CG80KZMiP?usp=sharing).
