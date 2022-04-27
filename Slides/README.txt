@@ -1,3 +1,3 @@
-All notes have been migrated to a series of [Google Docs](https://drive.google.com/drive/folders/10zMP4WC_JrgfCo4MIA0Rbd_CG80KZMiP?usp=sharing), which I have made publically viewable. I hope all my fellow machine learning enthusiasts get as much joy and learning from this textbook as I did!
+EDIT: The class slides I helped create for the COMP452 class at CSUN are no longer publically available, as per the updated guidelines from the Department of Engineering and Computer Science at CSUN. Please contact me at christopherdenq@gmail.com if you wish to discuss.
 
-NOTE: This project is no longer actively maintained since May 31, 2021. If you have any content-related questions about my notes, please reference the publisher's slides or the textbook itself.
+If you are a fellow machine learning enthusiast, the publisher has released reference slides for the textbook that are available online. Please utilize those for your learning journey!
